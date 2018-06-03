@@ -1,6 +1,6 @@
 # _vue-practice_
 
-#### _some things made with vue.js, 05.30.2018_
+#### _some things made with vue.js, 06.02.2018_
 
 #### By _**planeswalker1**_
 
